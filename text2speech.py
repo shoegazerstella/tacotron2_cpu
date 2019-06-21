@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Musixmatch API API
-#
-# @author Loreto Parisi at musixmatch dot com
-# Copyright (c) 2018-2019 Musixmatch spa
-#
 
 import sys, os
 #sys.path.append('waveglow/')
